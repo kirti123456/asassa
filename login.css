@@ -1,0 +1,56 @@
+body
+	{
+		
+	margin: 0;
+	padding: 0;
+	//background-color:#8533ff;
+	background: url("bg5.png") no-repeat fixed center; 
+ 	background-size: 100% 100%;
+
+	
+	}
+
+	
+#t_box
+	{
+		text-align: center;
+		margin-top: 150px;
+   		margin-bottom: 100px;
+   		margin-right: 50px;
+		margin-left: 500px;
+		background-color: #5c00e6 ;
+	 	border-radius: 25px;
+    		border: 10px solid #944dff;
+    		padding: 20px; 
+    		width: 300px;
+   		 height: 410px;  
+		
+
+	}
+.un
+	{
+
+		height:50px;
+		width:250px;
+		box-shadow: 10px 10px 5px #888888;
+		border-radius: 6px;
+
+	}
+.pwd
+	{
+
+
+		height:50px;
+		width:250px;
+		box-shadow: 10px 10px 5px #888888;
+		border-radius: 6px;
+	}
+.l_button
+	{
+		height:50px;
+		width:250px;
+		//box-shadow: 10px 10px 5px #888888;
+		border-radius:6px;
+		background-color:  #e6e6e6;
+
+	}
